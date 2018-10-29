@@ -1,1 +1,0 @@
-# Antialiasing-and-micro-renderer
